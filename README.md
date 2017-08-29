@@ -1,7 +1,8 @@
 # Get Going Preact
 
-## Embed widget
+Preact implementation.
 
-```
-<div id="app-get-going-preact-widget"></div>
-```
+* Preact and basic app structure.
+* Promises support with promiscuous.
+* Styles with sass.
+* Bundled with webpack.
